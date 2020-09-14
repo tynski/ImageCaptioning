@@ -77,7 +77,5 @@ This allows to break training at any moment, then return to trained models. The 
 To restore my trained model please download my [training checkpoints](https://drive.google.com/file/d/1JpliPfNLet-FjHtAz8JNxPd6ELK7Sz-Y/view?usp=sharing) or train model by yourself.
 
 ## TODO
-* .git folder is too big
-* name standardization/refactoring
 * train models on more data
 * replace GRU with LSTM
